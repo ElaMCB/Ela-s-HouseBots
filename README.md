@@ -1,4 +1,4 @@
-# Ela's HouseBots 🤖🏠
+# Ela's HouseBots
 
 > **Original multi-protocol robotics system featuring Raspberry Parfait (Chef Bot) and Cleaner Bot with innovative interaction protocols**
 
@@ -10,7 +10,7 @@
 
 Building **gender-neutral house bots** that operate under multiple original protocols designed for safe, intelligent, and respectful home service. This isn't just robotics—it's redefining human-robot interaction through **consent-first design** and **boundary sovereignty**.
 
-## 🌟 Unique
+## Unique
 
 - **100% Original Protocols**: my ideas, my code
 - **Consent-First Architecture**: Every action requires explicit user permission
@@ -36,7 +36,7 @@ Building **gender-neutral house bots** that operate under multiple original prot
 
 ## Core Protocols
 
-### 🧭 Navigation Protocol
+###  Navigation Protocol
 - **LiDAR-based zone mapping** and boundary respect
 - **Safe pathfinding** avoiding NO-GO areas
 - **Real-time position tracking** and zone validation
@@ -94,4 +94,5 @@ Building **gender-neutral house bots** that operate under multiple original prot
 | Safety Protocol | 📋 Planned | 0% |
 | Humility Protocol | 📋 Planned | 0% |
 |
+
 
