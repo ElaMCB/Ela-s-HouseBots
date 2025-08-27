@@ -6,13 +6,13 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Development-orange.svg)](https://github.com/ElaMCB/Ela-s-HouseBots)
 
-## 🎯 Vision
+## Vision
 
 Building **gender-neutral house bots** that operate under multiple original protocols designed for safe, intelligent, and respectful home service. This isn't just robotics—it's redefining human-robot interaction through **consent-first design** and **boundary sovereignty**.
 
-## 🌟 What Makes This Unique
+## 🌟 Unique
 
-- **100% Original Protocols**: No copied code, no borrowed ideas
+- **100% Original Protocols**: my ideas, my code
 - **Consent-First Architecture**: Every action requires explicit user permission
 - **Boundary Sovereignty**: Bots that truly respect defined limits
 - **Multi-Protocol Design**: Modular, extensible system architecture
@@ -34,7 +34,7 @@ Building **gender-neutral house bots** that operate under multiple original prot
 - **Personality**: Efficient, thorough, non-intrusive
 - **Unique Feature**: LiDAR-based zone mapping
 
-## 🧠 Core Protocols
+## Core Protocols
 
 ### 🧭 Navigation Protocol
 - **LiDAR-based zone mapping** and boundary respect
@@ -42,25 +42,25 @@ Building **gender-neutral house bots** that operate under multiple original prot
 - **Real-time position tracking** and zone validation
 - **RoomPlan integration** for dynamic environment mapping
 
-### �� Consent Protocol
+### Consent Protocol
 - **Multi-modal permission systems** (voice, visual, app)
 - **Progressive trust building** with user interaction history
 - **Context-aware consent validation**
 - **"Hey Bot" wake word** for natural interaction
 
-### ��️ Safety Protocol
+### Safety Protocol
 - **Real-time hazard detection** and avoidance
 - **Graceful failure modes** with automatic recovery
 - **Multi-sensor redundancy** for critical operations
 - **Hardware-enforced safety limits**
 
-### �� Humility Protocol
+### Humility Protocol
 - **Consent-first operation** requiring explicit user permission
 - **Silent service** with hardware-enforced quiet operation
 - **Protocol coordination** and conflict resolution
 - **User preference learning** over time
 
-## 🚀 Features
+## Features
 
 - **Voice Commands**: Natural language interaction with "Hey Bot" wake word
 - **AprilTag Recognition**: Visual consent and navigation markers
@@ -69,7 +69,7 @@ Building **gender-neutral house bots** that operate under multiple original prot
 - **Multi-Protocol Architecture**: Modular, extensible protocol system
 - **LiDAR Integration**: Real-time environment mapping and navigation
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Hardware
 - **Raspberry Parfait**: Pi Zero 2 W, food-grade silicone, kitchen sensors
@@ -82,7 +82,7 @@ Building **gender-neutral house bots** that operate under multiple original prot
 - **AI/ML**: Reinforcement learning, computer vision
 - **Architecture**: Multi-protocol, event-driven design
 
-## 📊 Project Status
+##  Project Status
 
 | Component | Status | Progress |
 |-----------|--------|----------|
@@ -94,3 +94,4 @@ Building **gender-neutral house bots** that operate under multiple original prot
 | Safety Protocol | 📋 Planned | 0% |
 | Humility Protocol | 📋 Planned | 0% |
 |
+
